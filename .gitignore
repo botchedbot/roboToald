@@ -10,3 +10,4 @@ certs
 .venv*
 .mypy_cache
 *.csv
+tests*
